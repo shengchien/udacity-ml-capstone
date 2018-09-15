@@ -1,5 +1,5 @@
 ### Description
-This is my capstone project for Udacity Machine Learning Nanodegree. The project is based on the [proposal](https://github.com/shengchien/udacity-ml-capstone/blob/master/proposal.pdf) submitted earlier as a part of the capstone project. The topic is _Sentiment Analysis with Word2Vec and XGBoost_.
+This is my capstone project for Udacity Machine Learning Nanodegree. The project is based on the [proposal](https://github.com/shengchien/udacity-ml-capstone/blob/master/proposal.pdf) submitted earlier as a part of the capstone project. The topic is **_Sentiment Analysis with Word2Vec and XGBoost_**.
 
 ### Dataset
 The dataset used in this project can be found at [Large Movie Review Dataset](http://ai.stanford.edu/~amaas/data/sentiment/) which was originally collected by
